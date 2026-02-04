@@ -1,0 +1,5 @@
+{
+  "name": "IIM Clarity Map",
+  "description": "A strategic traffic-reality simulator visualizing user acquisition flows in a node-graph structure.",
+  "requestFramePermissions": []
+}
